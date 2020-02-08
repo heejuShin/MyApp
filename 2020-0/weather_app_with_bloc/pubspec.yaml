@@ -20,6 +20,11 @@ dependencies:
   flutter:
     sdk: flutter
 
+<<<<<<< HEAD:2020-0/weather_app_with_bloc/pubspec.yaml
+=======
+  http: ^0.12.0+4
+
+>>>>>>> e3241eb0bd58d482edd9ccd5039f68cbb2e9433c:2020-0/first_flutter_1/pubspec.yaml
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
